@@ -1,4 +1,4 @@
-# Factory Method Example
+# Factory Method 
 
 Este repositório contém dois exemplos de código em Python, um utilizando o padrão de projeto Factory Method e outro sem utilizar o padrão.
 
